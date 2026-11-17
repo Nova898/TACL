@@ -1,0 +1,7 @@
+Publier ces trois fichiers à la racine du dépôt GitHub Pages.
+Format Google Sheets :
+- ligne de thème : nom du thème en colonne A, colonne B vide ;
+- sous ce titre : question en A, réponse exacte en B ;
+- lignes entièrement vides ignorées.
+Le site permet de choisir un thème ou tous les thèmes, 20 questions ou toutes, et l'ordre du tableau ou aléatoire.
+Dans GitHub : Add file > Upload files, déposer les trois fichiers, puis Commit changes.
